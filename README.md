@@ -21,7 +21,7 @@ git clone https://github.com/thtrieu/darkflow
 cd darkflow
 pip install -e .
 ```
-我們可以從error看出沒有Cython這個套件，因此我們用pip 來安裝這個套件
+### 我們可以從error看出沒有Cython這個套件，因此我們用pip 來安裝這個套件
 ```cthon
 pip install Cython
 ```
